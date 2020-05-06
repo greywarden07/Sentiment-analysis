@@ -1,3 +1,5 @@
+# Library used in this project is textblob
+
 from textblob import TextBlob
 
 
